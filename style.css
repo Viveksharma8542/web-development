@@ -1,0 +1,55 @@
+#para3{
+    color: brown;
+    border: solid 7px;
+    font-size: 30px;
+    text-align: auto;
+    width: 200px;
+    height: 200px;
+    border-radius: 30%;
+    
+}
+
+
+.false{
+    background-color: rgb(201, 201, 6);
+    width: 200px;
+    height: 200px;
+    background-image: url(s3.png);
+    
+}
+
+.para1{
+    border: solid 2px;
+    margin-top: 20px;
+    margin-left: 40px;
+    width: 400px;
+    height: 400px;
+    background-color: rgb(240, 225, 14);
+    text-transform: capitalize;
+    word-spacing: 5px;
+    text-shadow: 5px 0.2px red;
+}
+
+
+.one{
+    height: 40px;
+    width: 40px;
+    border: solid 2px;
+}
+
+
+.one:hover{
+    height: 10px;
+    width: 10px;
+
+}
+.logo{
+    display:flex ;
+    justify-content: space-between;
+}
+.navbar{
+    width: 600%;
+    /* background-color: aqua; */
+    justify-content: space-between;
+    display: flex;
+}

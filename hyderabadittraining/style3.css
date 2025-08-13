@@ -1,0 +1,210 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+
+
+
+.logo{
+    display:flex ;
+    justify-content: space-between;
+    margin-left: 30px;
+    
+}
+.navbar{
+    width: 700px;
+    /* background-color: aqua; */
+    justify-content: space-around;
+    display: flex;
+    text-decoration: none;
+    padding-top: 20px;
+    font-size: 20px;
+    
+}
+
+
+.navbar a{
+    text-decoration: none;
+}
+.backimage{
+    max-width: fit-content;
+    height: 480px;
+    
+}
+
+.two{
+    
+    
+    /* background-color: yellow; */
+    width: 60%;
+    
+    
+}
+.three{
+    display: flex;
+    gap: 5px;
+    margin-left: 40px;
+    margin-top: 30px;
+}
+
+
+.one{
+    display: flex;
+    justify-content: space-between;
+    height: 500px;
+    background-color: rgb(248, 248, 248);
+    position: relative;
+    
+
+    
+}
+form{
+    
+
+    background-color: white;
+    width: 30%;
+    margin-right: 50px;
+    margin-top: 30px;
+    
+}
+
+form h1{
+    background-color: green;
+    text-align: center;
+    
+}
+input{
+    margin-top: 30px;
+    margin-left: 60px;
+    height: 50px;
+    width: 300px;
+    font-size: large;
+    border-radius: 10px;
+    
+}
+textarea{
+    margin-left: 60px;
+    width: 300px;
+    height: 80px;
+    border-radius: 10px;
+    border: solid 2px black;
+    font-size: 20px;
+}
+
+
+button{
+    margin-left: 60px;
+    height: 40px;
+    width: 300px;
+    background-color: yellow;
+    border-radius: 5px;
+    font-size: 20px;
+}
+.one p{
+    margin-top: 30px;
+    font-size: 20px;
+    margin-left: 40px;
+    
+}
+
+.four{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 40px;
+    
+}
+
+
+.four img{
+    
+    margin-left: 20px;
+    margin-right: 20px;
+    width: 290px;
+}
+
+
+main h1{
+    text-align: center;
+}
+
+main{
+    background-color: rgb(212, 208, 208);
+}
+
+
+.five{
+    height: 170px;
+    /* background-color: aqua; */
+    
+}
+
+.five p{
+     background-color: white;
+     height: 30px;
+     align-content: center;
+     width: 290px;
+     margin-left: 20px;
+     text-align: center;
+     
+}
+  .six h1{
+    text-align: center;
+    margin-top: 20px;
+  }
+
+  
+
+table{
+    width: 90%;
+    margin-left: 70px;
+}
+
+
+
+  th{
+    background-color: green;
+    height: 40px;
+    font-size: 30px;
+  }
+
+  td{
+    text-align: center;
+    height: 60px;
+    border: solid 1px black;
+  }
+
+  .six{
+    margin-top: 60px;
+  }
+
+  .seven{
+    height: 400px;
+    background-color: aqua;
+  }
+
+
+  .seven h1{
+    text-align: center;
+    padding-top: 40px;
+  }
+
+
+
+
+  .eight{
+    display: flex;
+  }
+
+  .nine{
+    background-color: aliceblue;
+    height: 50px;
+    width: 10px;
+  }
+
+
+
+  .nine img{
+    height: 50px;
+    width: 60px;
+  }

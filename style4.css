@@ -1,0 +1,39 @@
+.one {
+    height: 50px;
+    width: 50px;
+    border-bottom: solid 2px black;
+    border-radius: 50%;
+    margin-top: 100px;
+    margin-left: 100px;
+    animation: size;
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+    
+
+
+}
+
+
+/* 
+.one:hover {
+    animation: size;
+    animation-duration: 5s;
+    animation-iteration-count: 1;
+} */
+
+
+
+
+@keyframes size {
+    from {
+
+        transform: rotate(0deg );
+    }
+
+    to {
+
+      transform: rotate(360deg );
+
+    }
+
+}
